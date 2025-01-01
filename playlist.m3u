@@ -2,7 +2,11 @@
 
 
 
-############################################################################ Canais | ABERTO
+############################################################################ NOVELAS GLOBO
+
+#EXTINF:-1 tvg-id="PAMOR" tvg-name="PAMOR Capítulo" group-title="Novelas", Capítulo de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi001.mp4
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
 https://stream1.freetv.fun/globo-rj-2-1.ctv
