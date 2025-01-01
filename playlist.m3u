@@ -4,9 +4,35 @@
 
 ############################################################################ NOVELAS GLOBO
 
-#EXTINF:-1 tvg-id="PAMOR" tvg-name="PAMOR Capítulo" group-title="Novelas", Capítulo de Novela PAMOR
+#EXTINF:-1 tvg-id="PAMOR01" tvg-name="PAMOR Capítulo 1" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 1 de Novela PAMOR
 https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi001.mp4
 
+#EXTINF:-1 tvg-id="PAMOR02" tvg-name="PAMOR Capítulo 2" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 2 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi002.mp4
+
+#EXTINF:-1 tvg-id="PAMOR03" tvg-name="PAMOR Capítulo 3" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 3 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi003.mp4
+
+#EXTINF:-1 tvg-id="PAMOR04" tvg-name="PAMOR Capítulo 4" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 4 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi004.mp4
+
+#EXTINF:-1 tvg-id="PAMOR05" tvg-name="PAMOR Capítulo 5" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 5 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi005.mp4
+
+#EXTINF:-1 tvg-id="PAMOR06" tvg-name="PAMOR Capítulo 6" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 6 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi006.mp4
+
+#EXTINF:-1 tvg-id="PAMOR07" tvg-name="PAMOR Capítulo 7" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 7 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi007.mp4
+
+#EXTINF:-1 tvg-id="PAMOR08" tvg-name="PAMOR Capítulo 8" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 8 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi008.mp4
+
+#EXTINF:-1 tvg-id="PAMOR09" tvg-name="PAMOR Capítulo 9" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 9 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi009.mp4
+
+#EXTINF:-1 tvg-id="PAMOR10" tvg-name="PAMOR Capítulo 10" group-title="Novelas" tvg-logo="https://link-da-imagem-da-capa.jpg", Capítulo 10 de Novela PAMOR
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi010.mp4
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
 https://stream1.freetv.fun/globo-rj-2-1.ctv
