@@ -1,10 +1,6 @@
 #EXTM3U
 
-############################################################################ TvDark Att 01/01/2025
-
-
-
-############################################################################ Canais | ABERTO
+############################################################################ Tv_Dark Att 01/01/2025
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
 https://stream1.freetv.fun/globo-rj-2-1.ctv
@@ -926,37 +922,6 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 ############################################################################ Canais | NOVELAS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 01
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi001.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 02
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi002.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 03
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi003.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 04
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi004.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 05
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi005.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 06
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi006.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 07
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi007.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 08
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi008.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 09
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi009.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Por_Amor_-_Capa_-_2016.jpg" group-title="Novelas", Por Amor - Capítulo 10
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi010.mp4
-
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
