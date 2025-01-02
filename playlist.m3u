@@ -967,7 +967,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Plutão TV Novelas
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7 ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -986,7 +985,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Evagina | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId={PSID}&appVersion=unknown& deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Canais | NOVELAS", TV Novelas Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceI d=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
@@ -1004,6 +1002,37 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 01
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi001.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 02
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi002.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 03
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi003.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 04
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi004.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 05
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi005.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 06
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi006.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 07
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi007.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 08
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi008.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 09
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi009.mp4
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="Canais | NOVELAS",Amor Perfeito - Capítulo 10
+https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi010.mp4
+
 
 ################################################# ######################### Canais | REALIDADE
 
@@ -5398,33 +5427,3 @@ http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 01
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi001.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 02
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi002.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 03
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi003.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 04
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi004.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 05
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi005.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 06
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi006.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 07
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi007.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 08
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi008.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 09
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi009.mp4
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png",Amor Perfeito - Capítulo 10
-https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi010.mp4
