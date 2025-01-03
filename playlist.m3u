@@ -1,70 +1,42 @@
 #EXTM3U
+#################################################
+# TvDark Playlist - Atualizada 01/01/2025
+#################################################
 
-################################################# ########################## Tv_Dark Att 01/01/2025
-
-################################################# ######################### Canais | NOVELAS
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark",ViVA HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD²
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark",ViVA HD²
 https://abc.embedmax.site/viva/video.m3u8
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark",ViVA FHD
 https://cr7v.short.gy/live3/v/Index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE SD
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark",SPACE SD
 https://cdn-4.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark",SPACE HD
 https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark",SPACE FHD
 http://fzcdn.vood.top:80/hls/705_.m3u8
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark",TNT HD
 https://cdn-4.nxplay.com.br/TNT_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD [Alterar]
-https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark",TNT FHD
 http://fzcdn.vood.top:80/hls/731_.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Série SD
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES", Canal Warner HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark",Canal Warner HD
 https://stream1.freetv.fun/warner-channel-3.ctv
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES", Canal Warner FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES", Canal Warner 4k
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark",Canal Warner 4k
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E SD
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="TvDark",AXN SD
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="TvDark",AXN HD
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network alta definição
@@ -83,13 +55,13 @@ http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/261121.ts
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
@@ -128,194 +100,35 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES", CANAL ESTRELA HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/748
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES", ESTRELA CANAL HDR
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES", STAR CHANNEL HD
+http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/755.m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES", ESTRELA CANAL FHD
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://imgur.com/vHReFQJ.png" group-title="Canais | FILMES E SERIES",FOX SD
+https://cdn-4.nxplay.com.br/FOX_TK/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://imgur.com/vHReFQJ.png" group-title="Canais | FILMES E SERIES",FOX HD
+https://cdn-4.nxplay.com.br/FOX_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 1, Episódio 1" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 1, Episódio 1
+https://drive.google.com/uc?export=download&id=1EjXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 1, Episódio 2" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 1, Episódio 2
+https://drive.google.com/uc?export=download&id=2FjXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES",Sony Movies HD
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 2, Episódio 1" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 2, Episódio 1
+https://drive.google.com/uc?export=download&id=3GkXbLv4_xxxxxxx
 
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 2, Episódio 2" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 2, Episódio 2
+https://drive.google.com/uc?export=download&id=4HjXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 3, Episódio 1" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 3, Episódio 1
+https://drive.google.com/uc?export=download&id=5IjXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 3, Episódio 2" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 3, Episódio 2
+https://drive.google.com/uc?export=download&id=6JkXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+#EXTINF:-1 tvg-id="The Walking Dead - Temporada 3, Episódio 3" group-title="Séries - The Walking Dead",The Walking Dead - Temporada 3, Episódio 3
+https://drive.google.com/uc?export=download&id=7KlXbLv4_xxxxxxx
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://stream1.freetv.fun/hbo-1-4.ctv
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/251
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD [Alterar]
-http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/255.m3u8
-
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/245
-
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/246
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 alta definição
-
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES", ASSINATURA HBO HD
-
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES", ASSINATURA HBO FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
-
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES", Estúdio Universal HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
-
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES", Estúdio Universal FHD
-https://stream1.freetv.fun/studio-universal-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD [Alterar]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
-
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 1
-https://download2392.mediafire.com/irifap92m9sg1DPLKjqj_GcqAu65FuBMHwtKU7_DyNQ13sijtv4mLr6CnVv6d_CqdvlsVwZGR025BxqifP9zhTBFR6bwkQkMyeg-oUhKrEMYkgkdYhU1e9seAeXK1q5he1AAJVlj2hyx9s-b95gd-XovUvR-AkaneHjxJCGDZ7SN/6e7oqh0gfdt0wtb/1-1.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 2
-https://download2390.mediafire.com/kbp6qc8c7mng_aRdTER03VmdRkeLRqAUjDOBAf3N0sIJ4ejpieAlEbGPW42Y8sFjY5JryxDfBA8MpoXgH7K5-YVIBkZK2X1JiugcYrZ2DxuoXAJTQa4FlMy_shba2RJF_I7-3rD26mS0qJBkXf5GuyQaetYBMjWaBBmH-Ww_6-1I/4qu1vmjr0mtne2r/1-2%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 3
-https://download2390.mediafire.com/2873euf1rqtg8mUdW1xi6kIYkuzje8valFJaC78bSFC8GbaksHokdBMh-693DoAuREflRleHa3oDyfpmLggSMbkfS8pkp5Yud3IEco2dvuaCsNYmkkyyt5GllHgR6_3ATULcEEFebdTPdV8NIrK6ciZG3IRAkLSqKQeXVHFCqhI/j64p6kl40u4wvf9/1-3%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 4
-https://download2391.mediafire.com/9o5jbowuzh0g7XrSWz6baBRDdfRhX5y7thDCYqXhsIWdZ6mRoQd2GALXkrW3T3CKPwn5M37dbVF57WYJogKCJsuZe8uNzjbN8I3HBk-DkQTx5G0eZ3Z04dlPLrH3wYVdN-0_g5Jj3fHI86pVzd67_YjxN4O0AqLYwmgmBk935NGX/47tpgk8vyryh8tw/1-4%284%29.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 5
-https://download2393.mediafire.com/tlgm9sjro2pgoS5FNHezdoibFbvGDF7tl-Z8g1Xvod-Hk3uoxqDMyTaNv2BcJ7N8cx6R59PkbU31vOHVRJ4FD2uoXfadDxokVeGXELKV35Yv3GxkKsJeQsuY8EpUikZjnu7sB2c6AN8J0jKrngLGh1xe9fLeKihbjvuksAbyCFQ/xsax7f3g1rixkst/1-5%2811%29.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/TheWalkingDead-P%C3%B4ster.jpg" group-title="The Walking Dead",The Walking Dead - Episódio 6
-https://download1501.mediafire.com/0o2q0wy2ddagaNnIWEO0o-hygOnYGDevFEbtDBGdu1nLI8sCYj-zW7j-Odpnu0vjf_hyp1PSgKDsICm4rGs3iylz5zZFPJ0wz6jUnUqSyFbon5-ucu1ImvCQbz96an7Udr5wlLXoQBOZP8Y_F5yEZIY0Fi7EoEetjn-a7dwCvvMf/18jei26v7l7cdrt/1-6%2811%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 1
-https://download2391.mediafire.com/2lhe1e7x0p6g7UHZUhrsxRoxZPkpxE51pVuHzXPDWvhs1KTam4H6yXRoimBMZALJGUr5vxin5DQzmIr-L_8pV7EH0LR_ZYzTfi4nmGIY6WtnSEE_sdhW2ko3cLNZzd8nDZ-rVLzLG0jhKByg7y9HNqREoP1vkVV9AxGyt4T0MBw8/5bp1zx9swnm2jaf/2-1%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 2
-https://download2393.mediafire.com/yv0fmrr7fm5gEtlWOq9KADlbrNI5vea2Npnoxtl3nnBqDoIR7JTFcfLt2BCnssj9-j7OIp5-HBfDQj4-AMqp58nnFO_jTIFCCh1j1fGSUAe2yyIKuIkKOqZ50GSFVVZPyU_2pfwjpr70YYhJK-5JUBS4amH0UqDKcOlLOPfk3FJT/x5j2tgzpsbeo5sg/2-2%288%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 3
-https://download1474.mediafire.com/mkhkhwed3jhg2W1Jjn6vnc74Hi7aKe55-r322qNU1hhTWtli_C8M6HguZmw6OPkVH6VzkEaeocJ6HfhCB64UiF0s4kAsXxhygw3PEokshHpAUn0EU4mRYAVc6tHa0p2d2oXYdYJNnm8riTvURnh9pyKqIvzzRYhWLb-_UITGFPGT/mlu9v9xdc5vraa1/2-3%285%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 4
-https://download2291.mediafire.com/8r0plhoz4yxgTLPRbj_QkgzbHud6hw7IT69ItrTxIo4gxfjUSJHSxgbB3rxt6jNlkHole9bb5ZZNAfKRh7l3kGefNY9RcfXsxxFaHOf4ho8bSQcUYfVgbjB-EZcrQXzH69JLtj8AmARYdQCsx1efR-alsAeDIWx00-v-ajr9DVu9/9gdkaohcwyycybi/2-4.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 5
-https://download2391.mediafire.com/rvybgvmkjx2g0rDFIS2YUOfLRC7gUtjndGmYxAOx7-pOIFbrbJ4DFvV2LhCK7OCm06sWKE2x0ZkwG-JUZ3JPbhfcw6WI_sKWxayDuwxGBQuNdMoUy_t9juv_4e6LoqEos7r6QNc69TKDqfJe34GbOPr6zlGhf_-JAaeJSGw2xAyE/ioemvk09r6vqfh6/2-5%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 6
-https://download2390.mediafire.com/avu78dotb2fgs0-xGG4idkz-DOE5rXIxP6zGEBrofy7qWnCiXzN-4ZPWTcgRGLwSmi1FOOAF2VRYU6Sgzs4VlstfGQxHE9idc-f6apLkHsnHCmg4poRUix-y0dJBxtjyad6Hy2E2C9Ry5PCNCS7th9VmMBz0yJqdoyP9y-wO4frS/ha9ln05fz3sfp8o/2-6%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 7
-https://download2392.mediafire.com/ormpte9616dgrb_lnGMfZiS-WFwtj2zylxWG-vmfp57y_KVNindOdr4vcUK-3VG1tqeGi8vzUEM9OZ3OgxUkE_g_HiouPc5Fzm54POcPwZ6ltFyHCqrQQPK5gYLrJnr_fhBhdADiAG6rsbfxoic-6oVe582qZ5do37MzPeB0XkU/igmqve6bch33x1g/2-7%283%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 8
-https://download2390.mediafire.com/38onk611194gXTS7t1vWGT7TE73YilSYhIqz03qFtCrz-pN9pJKUtCWSZhSAdVD2RL7BwQMuVr05URdzZrdVjkWVvY_847EIsKqCL1Eb5wahoi6IjNuc2TZFxzXxT3Alasa5JoGy9pi-JO4zCf-SxwGhzTKIxxb9cz4hbSVCdHPz/ie4eo25mqr6kdjf/2-8%283%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 9
-https://download2390.mediafire.com/k7gbp224hotgb_uQNuCtUcIF7DDMgLgR7b7tlsFO1VlWEXYb_P6t_fKEGb9ntRqLgdpjqjyUfy9Gr2CLclO_WPzNXXHPKn97uzVpm91qX53QIVEC2VP50wB56DIW8lW-gkXLBApUZwCd042MoHfsdt5pdcoulbEUUID8Y4Q8_b_s/lnm53g541psgu3e/2-9%283%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 10
-https://download2391.mediafire.com/qqww3bxnpttgOhQvOyos8rI4mM8bT-29dJkoeM2j3NLeCElWB_Ch5Dp-XGWgA7BunEkAte1YCntu5hwK8VYJVch1W6_MrPnSXtG8FMhSIVAqtDa4fjbPCVGkWad9lovGv_duY_ybNVVIcbpD7WRixMxvXH3ZekBlxes-5cZ_8vM/hwbvnahzuh7skug/2-10%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 11
-https://download2390.mediafire.com/pmcpqelnbx3gbVIAO04MKRa8n-4r3QqMdZ4xunynC2cBfaMtTXJLncPrwRJfIDiZF7vA1IaCbR2fd--VRjjh269A90t8PtiqpPOJUFfLbx-iBVDCpPWafvrLuPmMSDbfRf-ZcCZ9EPWr4mVBYyZe61d18IbdBsjlEeMR0tnwE2Y/lctcgxa71vnrlza/2-11%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 12
-https://download2393.mediafire.com/78fq9q4wkbxgvLcZ64-UOOzeTHOn38pkhdEK_iqdhopzUbcdhE1qv9IonKl5roOOIvFcfs4iQCOI70-9HAbAqbrHnrGnUXDX-Sosdvc4B6odvaLyt5e8aO4FZAxKoGfdM1aaAql-JadoBnBXOAdwH_Eg-G74CEDJdILx4KTXJmWI/ybp5fqefo1cc9ip/2-12.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/LnnXhl__7mWASLOvCnh_4cp9GPA=/322x478/smart/filters:format(webp)/media/movies/covers/2012/09/6c237e6dfbaa6526fe7339156e70eb93.jpg" group-title="The Walking Dead - Segunda Temporada",The Walking Dead - Episódio 13
-https://download2391.mediafire.com/4sulemvxwbbgEa1yu_OUY_pN1bMorQB1bNDHiLPzojGz_zhbh2E32EFb9uunXCoMrGR0qoeCsI2-aFY3apeMUWO4Do1gwqF9WbZgyhmuClOrCY49BiXe3hfoOGm05AQqFBg1kKCq953b-tbvNw9tvboiC-IP3ckew8rMsQP1Ug/flasxra8txn6rul/2-13%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 1
-https://download2390.mediafire.com/jaupezygg4xgEVtCLXRBh3S9nPQnsEimT-xWwDrkW_Nz7WZ0Yac4Joaku8yIk-epGcl9YRhcHhHEYATKg5nC5OKEWOA3DS6HmTfeT6Q9vXmWrYTdr4Za1R1-dr5OFNZEahggpwkrupH-4i21hJKvNg9NWr3nLJfLvlYILNZN2XE/m1knvbpj2q9c712/3-1%283%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 2
-https://download2393.mediafire.com/gk1azka4ah8gNoY-7tiM12pnRtR4AAd9LjG4ohnC9Qt1kYGEwlMSpGXVvQ8kEeV27igKCCfcxMasLVyaxlZXVYjK7uLRVUVBEnqHqh0I9j0ID_E131sEfIrCim43nWAIdJiyG65_ahaeQgWnYtshfASCsA95O8O6M5DvEVtWkodf/jmxpbei2so6ohmb/3-2%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 3
-https://download2391.mediafire.com/ysdypvs3knig7rvADZBmbwln8_xoWFC3we8YKj_BkDomsoveuFRjfQPf6M7LUqnkeRUtWtrnNWymGp7y8L7fqzsIJk5koXzTKtiegV0kUZOCAkLUdjwwDTc25QK8MEZjh3xAvKleK0RCpO0OtjvG3wB8ed2WCo_nC37ikgY3r9cg/18vulkb3ayvd8lg/3-3%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 4
-https://download2391.mediafire.com/mp4013yughegUQYrpM2vTxY5dntmk75Q9j5VC64YyOODowURJU4Kfr42w9lvR547aSNDGrPKmqR4ph1Dw5eu3byxVb6MnbKPzhTn1utrTS8UmWuuJhDlGh4gid7ySZbUwEMsl49YK-9xwKYtSItruhFGSKlYJ0h1WX133POcDiyn/erg1un7d9buxxbh/3-4%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 5
-https://download2392.mediafire.com/jh17r4kmbpkgpQb3cqDngU2KgVTEKsvyZYy_M9nYiXtmz3dLOe6Ztm0FpEuY6nJvSqGtjs0hl8T1WT4b_AV6t7rqQDY19vhmAZ0NVAmLz4SHQeleFosjYrC5gZMzVtN7uppMJNn6BkEKpFpTbPUCdyhCTi13sse8JwD9gO1wuJKp/c5fj4p9o882hqls/3-5%285%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 6
-https://download2390.mediafire.com/ec1jvqa3g6jgSZBltDkXTQ5Jo-bky3C6-iF6mMTmdzphESuWR29P799HDZGOM8z6RE4IYFrSy_14xJyn9aHyq2lG6_mY8m-QvfazlRDSLCSOlC1trjsdsfZ1adJbSmadb3M5TXYl5ZaMYhNBNpdtYLlPvLsAQqxwMbpu9JTZ2r9Z/xzyzqsdtm35sph9/3-6%284%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 7
-https://download2390.mediafire.com/n8u1kt3y7xpgsBKWiYHTA2mkmOlb7qVEYbS0E9RAbm616whg1y-ODGnqcQt8CNbUMJdWo1NTv0HfwQusjEo_zW-E3rzoRIXibQ52rBjDQRC1zqj2Pd7DTKWjBNJiJknwNmwi3_26v62G9vnHccrw-kDxZdR-1DWWbCjKOQU8M4JL/zzgr8opdg9w1tnn/3-7.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 8
-https://download2393.mediafire.com/m61m0jtqn7cg4r9XXLYeGvwOBkzg4adHxrgc4Qra_r1FdGCbscfNRHp4QdVPk_yMKk__0qH_idqCxBqmcPh2rvxWYFllq9ceUqPYkQVaeL0nF4UANl7WAGQRAzYa5I1TWJ4HscG3NzpT4_wHiI8A_eyNYzoJchO4sRLM6tnnmmuW/9e4iq9sohqbgf3i/3-8%282%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 9
-https://download2390.mediafire.com/c8lwojkkcl9gJK0gBgiwm0A5V91NXOu9iMxMU55Izsf_BEu2Y9P_8i8btY7am9ZSsrhPenUwZtbRku6i_M9L1jmep18oPbuzt9UWBtP2JL_WNS0jB6vv03UzQh1siTPErJK_19Sb7R12u6-v2vWwUMMVW4asklGmz1NYJIu0zuBb/r2qiqw02213t2sy/3-9%283%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 10
-https://download2389.mediafire.com/drw9odvxghugHOlJzX86kSI1fhUDsepxMX2mzd9YqGzaIj5kk4wLwD8Py0ZNI2Vn0J2Uc1PUcNi0pYFRC9bWR50dC7ZeVx7vXm7lcssrrFjeEUIaaG7NGP_LlzlDbajjXy0VBzejnlRbIDBkCzXMyEaIf8jlQddWQbC0171bSs5-/7dq3vziiyyzd9m8/3-10.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 11
-https://download2391.mediafire.com/qraeogmckwngVCnR-1U65j6q7cEERv6Ld-Zzy8pGTdUKhKu18fRYuOz4cUDoQkrTVuo_B6UIozGcl9FCtCOt23XtJZSsdJpa4sw7SgYSQq67j-Dpiq01qXi8x2PkmWnXlIoysuCh2lH99q9GgyCpC7nZgu6YP3E-xFCgkQ67B4OA/td3ml38pv5yg95t/3-11.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 12
-https://download2393.mediafire.com/koitc26ub17gRddjqRqA7jqiZoz89VUo88ijeCijeM_IyTWeDy4DCKcOpp8s8LhpTPnIhkysOoixzAFk5wQT0PSYtddf6If8qP6Ghm7YqJzwY_g544AWqZ4d2PYucQjNaz_oW9b0h2s0l_1q-PxawuugyRbImZK4pHCUOcKv38__/qh1nuxr8ua0uqwu/3-12%286%29.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 13
-https://download1592.mediafire.com/p2e5xppeudvgiRnXqWk84AbfLEZV9EL144LoDXh8FvgnYPT0p4Uj93a0zy3zcp9ZmWTNLX3iaxyChKWt1HMvpHXn9TUBKBqud1tX31W_K61Q6Ik8SF5228xZEBEtG1bVSQZI3acZRHpwUDC3ISax0jNebiZAP2IwRP_UUv8fjJfM/tzxdpl1b63rcyzq/3-13.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 14
-https://download1474.mediafire.com/plfncjqdf3sg39X6gUcUo_zxu70_ac8-Tm0SrgoEPRgI2g4VZsLXBrbd-bOAbVNqwurXsd6iSZSwX1qjchWwFb6nP9ByEK9NVQiWCbWqef_giP7aqox6kgWg85y-N7_1ZqGPHfwjiZcEOltH7qcipUb_Rnvt-2Hh9yxXCDNlBVaY/6irpvqje3idvxfe/3-14.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 15
-https://download2390.mediafire.com/3r78caz1loug6IwNd7_-7QYOwA3tqoZqJm7LqhQ2JRhe1GfgYN1jIltPBAbnRsOhMQL3brpc3cWGunXvDohB_iGPuF5OL4kv8klh9D8ZECViswHDoceaaKdxqhZDVV5-2J-Rl80ZHZLIXSugaBlbIGTQeafV_xXyAjfTIH3Wt6Td/7wdbgam26kfmi3l/3-15.mp4
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/e/e5/The-Walking-Dead-Banner-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20160404045742&path-prefix=pt-br" group-title="The Walking Dead - Terceira  Temporada",The Walking Dead - Episódio 16
-https://download1479.mediafire.com/s21lc88na7cgt4v1J6K9U-_EhV5dcfA2gTTfsOXoWPuFgSj7ARFwrPIL3sQKi3sw8pppzMYi_9TqJ1Ww67pjTPnpTnmxTQoi33aQRK6zyTqXDVqK1kI8gcIdohtAR5TliF9cDVpNMSzraRSkpFlJe113i7XfAouCzRMw_FdpdG17/df4wtpqyjro89tr/3-16%282%29.mp4
