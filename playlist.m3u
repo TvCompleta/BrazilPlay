@@ -701,8 +701,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b800084
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="TvDark | FILMES E SERIES",NCIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="TvDark | SÉRIE",CSI: Miami
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown& deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="TvDark | FILMES E SERIES",Plutão TV Séries Sci-Fi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1694,3 +1692,451 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TvDark | AO VIVO",TV Cultura RN FHD
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
+
+################################################# ############### IMPUROS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S01",S01 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x10.mp4
+
+################################################# ############## IMPUROS S02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S02",S02 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x10.mp4
+
+################################################# ############## IMPUROS S03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S03",S03 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x10.mp4
+
+################################################# ############## IMPUROS S04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E08
+Português: http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtr f34t65435retyg/SHD1/83295/4x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S04",S04 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x10.mp4
+
+################################################# ############### IMPUROS S05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="TvDark l NETFLIX | IMPUROS S05",S05 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x10.mp4
+ 
+################################################# ######################### ORIGEM (DE)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E08
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E09
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="TvDark l NETFLIX | ORIGEM S01 DUB",S01 E10
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x10.mp4
+
+################################################# ######################### ORIGEM (DE)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E08
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E09
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E10
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E11
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E12
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E13
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E14
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E15
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E16
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x16.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E17
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x17.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E18
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x18.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E19
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x19.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E20
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x20.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E21
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x21.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E22
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x22.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E23
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x23.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E24
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x24.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E25
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x25.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E26
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E27
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x27.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E28
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x28.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E29
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="TvDark l NETFLIX | ORIGEM S02 DUB",S02 E30
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x30.mp4
+
+############################################################################################################# LUPIN S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="TvDark l NETFLIX | LUPIN S01",S01 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="TvDark l NETFLIX | LUPIN S01",S01 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="TvDark l NETFLIX | LUPIN S01",S01 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="TvDark l NETFLIX | LUPIN S01",S01 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="TvDark l NETFLIX | LUPIN S01",S01 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x5.mp4
+
+################################################################################################# LUPIN S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="TvDark l NETFLIX | LUPIN S02",S02 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="TvDark l NETFLIX | LUPIN S02",S02 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="TvDark l NETFLIX | LUPIN S02",S02 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="TvDark l NETFLIX | LUPIN S02",S02 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="TvDark l NETFLIX | LUPIN S02",S02 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x5.mp4
+
+################################################################################################# LUPIN S03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPINE S03",S03 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPIN S03",S03 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPINE S03",S03 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPIN S03",S03 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPIN S03",S03 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPIN S03",S03 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="TvDark l NETFLIX | LUPINE S03",S03 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x7.mp4
+
+################################################# ########################## MANUAL D ASSASSINATO PARA BOAS GAROTAS S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="TvDark l NETFLIX | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x6.mp4
+
+################################################# ######################### SANGUE NOVO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="TvDark l NETFLIX | SANGUE NOVO S01",S01 E07
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x7.mp4
+
+##################################################################################### A ACADEMIA GUARDA-CHUVA S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S01",S01 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x10.mp4
+
+##################################################################################### A ACADEMIA GUARDA-CHUVA S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="TvDark l NETFLIX | THE UMBRELLA ACADEMY S02",S02 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x10.mp4
