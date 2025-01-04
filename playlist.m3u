@@ -9,18 +9,7 @@
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark | NOVELAS",ViVA HD²
-https://serviceswizadseu.cachefly.net/wads/creatives/76e97986e27866d3.mp4
-
-#EXTINF:-1 tvg-id="Viva HDSDD tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark | NOVELAS",ViVA HD²
-https://outbound-proxy-us-east1-0-glob-usercontent_client-id-6523853753.googleapis.com.de/a1x2/docs/viva/__index.m3u8?mu3zAQc9HC3GbwJq=7Zp8gvc0DzAgtK1w7-bBVg&3U1G7qaTxrPbalZnEx=1735988345&sv=6
-
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:17
-#EXTINF:8.341667, Viva - Ao Vivo
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/viva_5d00f2c6_b9c417f963f2d8081327145e16f67d822664090f/playlist.m3u8?sk=def50200f7ea100886e40287f61eb1c3d12ac7a950220ab6bff767aee2600a1f20aef7330e96d965df903eb2e426d6f2884494e6b4d67757159761d7f93f29f1b2cd1d010db4dc86cc5d6f5cb7f27e9415f2c940697a5f7f674322dd1a3eaf5bf26b3f88c875a6fbfc0a7283fa872ee2ff5437722028f0bdc3c9e77d9ba8b15e56ae7f068b0f04ded807e466fe25d26bc2c106b79daa0370ab0863c2e3c58cf1c4bebf52d85b47b49f82fee805ce36df449b86346c3c27bf55274c4992965fb43ba79bb7920450ce97101f8c9e59de812b9905bd988d8302be28fd9969cdfdbaf0488f42f7423610f351d26c240498029d76598485d4f8b62ed41dc2f4f6cfca6bfdb836a00623934aa3f4097d21bcb360c8c441e5cf12592a35d5853accdadaf168c820dfc4db8af5057ffd0a2684d4c1
+https://abc.embedmax.site/viva/video.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="TvDark | NOVELAS",ViVA FHD
 https://cr7v.short.gy/live3/v/Index.m3u8
@@ -116,46 +105,25 @@ https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi009.mp4
 #EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2019/05/20190501-por-amor-logo.png" group-title="TvDark | NOVELAS",Por Amor - Capítulo 10
 https://novelasflix.vip/storage3/PAMOR/PAMORzJ8ZbkUekz24eeeVxdBUi010.mp4
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark | FILMES E SERIES",SPACE SD
-https://cdn-4.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark | FILMES E SERIES",SPACE HD
-https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark | FILMES E SERIES",SPACE FHD
 http://fzcdn.vood.top:80/hls/705_.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="TvDark | FILMES E SERIES",SPACE FHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark | FILMES E SERIES",TNT HD
-https://cdn-4.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark | FILMES E SERIES",TNT HD [Alterar]
-https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark | FILMES E SERIES",TNT FHD
 http://fzcdn.vood.top:80/hls/731_.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="TvDark | FILMES E SERIES",TNT FHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="TvDark | FILMES E SERIES",TNT Série SD
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="TvDark | FILMES E SERIES",TNT Séries HD
-https://cdn-1.nxplay.com.br/TNT_SERIES_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="TvDark | FILMES E SERIES",TNT Séries HD [Alterar]
+#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="TvDark | FILMES E SERIES",TNT Séries FHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal Warner HD
-https://stream1.freetv.fun/warner-channel-3.ctv
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal Warner FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal Warner 4k
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal WarnerFHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="TvDark | FILMES E SERIES",A&E SD
