@@ -120,10 +120,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
 #EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="TvDark | FILMES E SERIES",TNT Séries FHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal Warner HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", TvDark Warner HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", Canal WarnerFHD [Alterar]
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="TvDark | FILMES E SERIES", TvDark WarnerFHD [Alterar]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="TvDark | FILMES E SERIES",A&E SD
@@ -283,7 +283,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="TvDark | FILMES E SERIES",Disney Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/hyZX677.png" group-title="TvDark | FILMES E SERIES",Z NATION
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
@@ -333,8 +332,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="TvDark | FILMES E SERIES",Hallo Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="TvDark | FILMES E SERIES",XENA 24h
-http://xciptv.8888play.one:80/228463308/r576049x/272707
+
+
+#EXTINF:-1 group-title="TvDark | FILMES E SERIES", Gladiador
+#EXTIMG:https://jardimdasamericas.com.br/uploads/2024/11/capa-filme-o-gladiador-2-87961-large.png
+https://download2448.mediafire.com/vr1inaotz95gfGfIt9lI5GJPVjZngHUZUiNWN-l_UqGSaPm1NWpeGt1-hW-YhYmXip-kfyNKTcADDwJ2yJmzWwo8KSPXW9zp1ZLoodh3pVhIdiYqRrR-ylvtblc9y4xdPd5VCgH7_MVtvWkFRdZaUuquBoDZkbOXQmr2_ppv7Ls/1okb5ngv19aiw2s/Gladiator.24-HD.mp4
+
+#EXTINF:-1 group-title="TvDark | FILMES E SERIES", Venom
+#EXTIMG:https://northshoppingbarretos.com.br/wp-content/uploads/2024/10/VENOM-LANCAMENTO.jpg
+https://download2436.mediafire.com/xvqcoejnqyegvor0XljYEn9EPwUfVtRZmWhLqaHmXz6QbaooxvWyOXJW462nxyW0szxNt8Q3Zt5WIy-KwzcwC5t9JqxNsDuCjMadSLqXqP2hUjJq5J4hWl6l9py3_EiCzOTRZtnO0AzWQRU3FyHD8ChMyzZ5b94ozgWEZM95R19N/n8vk2nkxdtxdfix/Venom.24-HD.mp4
+
+#EXTINF:-1 group-title="TvDark | FILMES E SERIES", Operação Natal
+#EXTIMG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Red_One_filme.webp/320px-Red_One_filme.webp.png
+https://download2434.mediafire.com/d9hxgszbo0sg3GkcM_VjoYMZE7OTZ8EfB_0cuIeQ1VxcraTI0rGHHwAu9Mvplj3yfevEjucU7ESlFYUYiPdqdnUGwnweOzClZ-xPFZDX8S_0Vct9v61elb9RhMGnmWRMDfLBF_rSvTWk83LFD4EcW0eDsarRtxBctsxmg2XSl6VZ/0wwqim5hupmixg9/Operacao.Natal.2024-HD.mp4
+
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="TvDark | FILMES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -431,7 +442,7 @@ http://24hrs.homelinux.com:80/24H-vocesabia/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="TvDark | FILMES E SERIES",🔴Fatos Desconhecidos 24h
 http://24hrs.homelinux.com:80/24H-fatosdesconhecidos/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="TvDark | FILMES E SERIES",Canal UOL
+#EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="TvDark | FILMES E SERIES",TvDark UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="TvDark | FILMES E SERIES",Oportunidades TV HD
@@ -470,7 +481,7 @@ http://186.226.215.132:80/carlos123/carlos123/502
 #EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png" group-title="TvDark | FILMES E SERIES",TBS HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/291
 
-#EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="TvDark | FILMES E SERIES",Canal Brasil
+#EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="TvDark | FILMES E SERIES",TvDark Brasil
 http://186.226.215.132:80/carlos123/carlos123/498
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="TvDark | FILMES E SERIES",E! alta definição
@@ -572,7 +583,7 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/140
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="TvDark | FILMES E SERIES",Discovery Channel SD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="TvDark | FILMES E SERIES",Discovery Canal HD
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="TvDark | FILMES E SERIES",Discovery TvDark HD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="TvDark | FILMES E SERIES",Discovery Channel HD [Alterar]
